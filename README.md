@@ -1,11 +1,12 @@
 <div align="left">
  <h1>Olá, Bem vindo! Me chamo Augusto Cesar 👋</h1>
+	
+| [<img width="500px" src="https://i.redd.it/bpxxqqvps4h91.gif" />](https://new-portfolio-flame-nu.vercel.app/)|
 
 
 | Sobre Mim | Portfólio :rocket: |
 | --- | --- |
-| <ul><li>🖥️ Future Software Engine</li><li>:mortar_board: Cursando Engenharia de Software na [42SP](https://www.42sp.org.br/)</li><li>📚 Atualmente venho estudando:<ul><li>C :computer:</li></ul></li></ul> | [<img width="500px" src="https://i.redd.it/bpxxqqvps4h91.gif" />](https://new-portfolio-flame-nu.vercel.app/)|
-
+| <ul><li>🖥️ Future Software Engine</li><li>:mortar_board: Cursando Engenharia de Software na [42SP](https://www.42sp.org.br/)</li><li>📚 Atualmente venho estudando:<ul><li>C :computer:</li></ul></li></ul>
 
 ## Ferramentas e Tecnologias
 <div align="left">
