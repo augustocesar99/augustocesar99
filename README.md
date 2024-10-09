@@ -1,16 +1,24 @@
-<div align="left">
- <h1>Olá, Bem vindo! Me chamo Augusto Cesar 👋</h1>
+<div align="center">
+| [<img width="100%" src="https://i.redd.it/bpxxqqvps4h91.gif" />]
 	
-| [<img width="500px" src="https://i.redd.it/bpxxqqvps4h91.gif" />](https://new-portfolio-flame-nu.vercel.app/)|
+<h1>Augusto Cesar - 42 Cadet | Front-end Developer</h1>
+<div align="left">
 
+### About me:
 
-| Sobre Mim | Portfólio :rocket: |
-| --- | --- |
-| <ul><li>🖥️ Future Software Engine</li><li>:mortar_board: Cursando Engenharia de Software na [42SP](https://www.42sp.org.br/)</li><li>📚 Atualmente venho estudando:<ul><li>C :computer:</li></ul></li></ul>
+<div align="center">
+	
+Olá! Sou cadete na 42 São Paulo e estudante de Biomedicina na Estácio. Também estou cursando Neurologia na Universidade Federal do Rio Grande do Norte. 
+
+Além disso, estudei Desenvolvimento Full-Stack no FreeCodeCamp e atualmente trabalho como Desenvolvedor Full-Stack na Easydiet.
+</div>
+
+### Objetivo
+
+Um dia, quero construir minha própria rede neural focada em monitorar e estudar doenças neurodegenerativas.
+
 
 ## Ferramentas e Tecnologias
-<div align="left">
-
 	@@ -13,7 +13,7 @@
 <hr>
 
