@@ -1,22 +1,15 @@
 <div align="center">
 | [<img width="100%" src="https://i.redd.it/bpxxqqvps4h91.gif" />]
 	
-<h1>Augusto Cesar - 42 Cadet | Front-end Developer</h1>
+<h1>Augusto Cesar - 42 Cadet | Future Software Engine</h1>
 <div align="left">
 
 ### About me:
 
 <div align="center">
 	
-Olá! Sou cadete na 42 São Paulo e estudante de Biomedicina na Estácio. Também estou cursando Neurologia na Universidade Federal do Rio Grande do Norte. 
-
-Além disso, estudei Desenvolvimento Full-Stack no FreeCodeCamp e atualmente trabalho como Desenvolvedor Full-Stack na Easydiet.
+Olá! Sou cadete na 42 São Paulo. Também estudo Desenvolvimento Full-Stack no FreeCodeCamp.
 </div>
-
-### Objetivo
-
-Um dia, quero construir minha própria rede neural focada em monitorar e estudar doenças neurodegenerativas.
-
 
 ## Ferramentas e Tecnologias
 	@@ -13,7 +13,7 @@
