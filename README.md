@@ -1,5 +1,5 @@
 <div align="center">
-| <img width="70%" src="https://i.redd.it/bpxxqqvps4h91.gif" />
+<img width="70%" src="https://i.redd.it/bpxxqqvps4h91.gif" />
 	
 <h1>Augusto Cesar - 42 Cadet | Software Engine</h1>
 <div align="left">
