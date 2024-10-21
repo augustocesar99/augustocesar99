@@ -20,14 +20,7 @@ Olá! Sou cadete na 42 São Paulo. Também estudo Desenvolvimento Full-Stack no 
   <a href="https://github.com/augustocesar99">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=augustocesar99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocesar99&layout=compact&langs_count=7&theme=tokyonight"/>
-</div
-
-### Tecnologias e Ferramentas
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+</div>
 
 ### Contato:
 <div> 
