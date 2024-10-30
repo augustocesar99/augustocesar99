@@ -1,11 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/irVmlMu1zlgyBYGyxO/giphy.gif" width="250"/>
-  <h1>Olá, Eu sou Augusto Cesar! :alien:</h1>
-  
+  <h1>Hello, I'am Augusto Cesar! :alien:</h1>
+  <p align="center">  <strong> Brazilian, 23 years old </strong> </p>
 </div>
-
-
-
 
 ## Sobre:
 Meu nome é Augusto, sou mineiro e atualmente moro em São Paulo.  
