@@ -1,11 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/irVmlMu1zlgyBYGyxO/giphy.gif" width="250"/>
   <h1>Olá, Eu sou Augusto Cesar! :alien:</h1>
-  <p>Bem-vindo ao meu perfil do GitHub</p>
+  
 </div>
 
-## Sobre:
 
+
+
+## Sobre:
 Meu nome é Augusto, sou mineiro e atualmente moro em São Paulo.  
 Sou Engenharia de Software na 42 São Paulo. 💻 
 
