@@ -4,11 +4,11 @@
   <p align="center">  <strong> Brazilian, 23 years old </strong> </p>
 </div>
 
-## Sobre:
-Meu nome é Augusto, sou mineiro e atualmente moro em São Paulo.  
-Sou Engenharia de Software na 42 São Paulo. 💻 
+## About:
+My name is Augusto, I'm a miner and currently I live in São Paulo.
+I am software engineering at 42 São Paulo. 💻
 
-## Ferramentas e Tecnologias
+## Tools and Technologies
 
 <div align="center">
   <a href="https://github.com/augustocesar99">
@@ -17,10 +17,10 @@ Sou Engenharia de Software na 42 São Paulo. 💻
 
 
 
-## Contato:
+## Contact:
 <div align="center"> 
   <a href="mailto:augustocs.ita@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/augcesart/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-<h3 align="center">Se você achar algum dos meus repositórios útil, uma estrela 🌟 seria legal! 😊<h3>
+<h3 align="center">If you find any of my repositories useful, a star 🌟 would be cool! 😊<h3>
