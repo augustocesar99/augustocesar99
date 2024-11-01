@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/irVmlMu1zlgyBYGyxO/giphy.gif" width="250"/>
-  <h1>Olá, sou Augusto Cesar! 👽</h1>
+  <h1>Olá, sou Augusto Cesar! <img src="https://img.icons8.com/?size=70&id=VjCiZhIci1Dn&format=png" alt="Walter White" width="65"></h1>
   <p align="center"><strong>Desenvolvedor de Software | Brasileiro | 23 anos</strong></p>
 </div>
 
