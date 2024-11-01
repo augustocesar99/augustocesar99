@@ -7,7 +7,7 @@
 ---
 
 ## Sobre Mim:
-Sou ineiro vivendo em São Paulo. Atualmente, estudo Engenharia de Software na [42 São Paulo](https://www.42sp.org.br/), onde desenvolvo habilidades técnicas e analíticas focadas em desenvolvimento e resolução de problemas. Sou apaixonado por tecnologia e estou sempre explorando novas ferramentas e metodologias de programação.
+Sou mineiro vivendo em São Paulo. Atualmente, estudo Engenharia de Software na [42 São Paulo](https://www.42sp.org.br/), onde desenvolvo habilidades técnicas e analíticas focadas em desenvolvimento e resolução de problemas. Sou apaixonado por tecnologia e estou sempre explorando novas ferramentas e metodologias de programação.
 
 ## Ferramentas e Tecnologias
 
