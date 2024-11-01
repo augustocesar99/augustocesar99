@@ -13,8 +13,8 @@ Sou ineiro vivendo em São Paulo. Atualmente, estudo Engenharia de Software na [
 
 <div align="center">
   <a href="https://github.com/augustocesar99">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=augustocesar99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocesar99&layout=compact&langs_count=7&theme=tokyonight"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=augustocesar99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocesar99&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
