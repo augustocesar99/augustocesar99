@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Olá, sou Augusto Cesar!</h1>
+  <h1>Olá, sou Augusto Cesar! <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"></h1>
   <p align="center"><strong>Desenvolvedor de Software | Brasileiro | 23 anos</strong></p>
 </div>
 
