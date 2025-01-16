@@ -12,7 +12,6 @@ Sou mineiro vivendo em São Paulo. Atualmente, estudo Engenharia de Software na 
 
 <div align="center">
   <a href="https://github.com/augustocesar99">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=augustocesar99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=augustocesar99&show_icons=true&theme=dracula"/>
   </a>
 </div>
