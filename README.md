@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <h1>Olá, sou Augusto Cesar! <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"></h1>
+  <img 
+src="https://camo.githubusercontent.com/e4b12e499ca2956d30fab48abf9a68b41c14d318a069652a247e77d42210192b/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3035302f3339322f3931322f6f726967696e616c2f6e656c736f6e2d74696170612d6769662d636f6e2d74656c65666f6e6f2e6769663f31363534373334343930" width="100px">
+  <h1>Olá, sou Augusto Cesar!</h1>
   <p align="center"><strong>Desenvolvedor de Software | Brasileiro | 23 anos</strong></p>
 </div>
 
