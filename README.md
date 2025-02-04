@@ -20,5 +20,3 @@
 </div>
 
 ---
-
-<p align="center">⭐ Se algum dos meus repositórios for útil para você, deixe uma estrela! 😊</p>
