@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Olá, sou Augusto Cesar!</h1>
-  <p align="center"><strong>Desenvolvedor de Software | Brasileiro | 26 anos</strong></p>
+  <p align="center"><strong>Desenvolvedor de Software | 26 anos</strong></p>
 </div>
 
 ## Ferramentas e Tecnologias
