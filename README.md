@@ -3,8 +3,6 @@
   <p align="center"><strong>Desenvolvedor de Software | 26 anos</strong></p>
 </div>
 
-## Ferramentas e Tecnologias
-
 <div align="center">
   <a href="https://github.com/augustocesar99">
     <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=augustocesar99&theme=dark&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github">
