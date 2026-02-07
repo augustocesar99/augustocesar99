@@ -6,7 +6,7 @@ Atualmente, sou **Estagiário de Engenharia de Software Fullstack na Natura**. A
 ---
 
 ### 🎓 Formação e Foco Técnico
-* **Acadêmico:** Cursando Engenharia de Software, com foco em linguagens de baixo nível (**C**) para fortalecer os fundamentos de computação.
+* **Acadêmico:** Cursando Engenharia de Software na escola 42 São Paulo, com foco em linguagens de baixo nível (**C**) para fortalecer os fundamentos de computação.
 * **Stack Principal:** Prática constante em **JavaScript, React e Node.js** para entregar soluções modernas e performáticas.
 * **Ecossistema:** Experiência com **Redux** para gestão de estado e **GraphQL** para consultas eficientes.
 
