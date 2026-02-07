@@ -1,7 +1,7 @@
 # Olá, eu sou Augusto Cesar! 👋
 
 ### 🚀 Sobre mim
-Atualmente, sou **Estagiário de Engenharia de Software Fullstack na Natura**. Atuo no desenvolvimento de soluções para otimização de plataformas e na resolução de bugs, sempre buscando aplicar as melhores práticas de desenvolvimento e clean code.
+Atualmente, sou **Estagiário de Engenharia de Software Fullstack na Natura**. Atuo no desenvolvimento de soluções para otimização de plataformas e na resolução de bugs, sempre buscando aplicar as melhores práticas de desenvolvimento.
 
 ---
 
