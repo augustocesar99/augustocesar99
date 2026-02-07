@@ -1,18 +1,36 @@
-<div id="header" align="center">
-  <h1>Olá, sou Augusto Cesar!</h1>
-  <p align="center"><strong>Desenvolvedor de Software | 26 anos</strong></p>
-</div>
+# Olá, eu sou Augusto Cesar! 👋
 
-<div align="center">
-  <a href="https://github.com/augustocesar99">
-    <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=augustocesar99&theme=dark&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github">
-    <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocesar99&langs_count=5&theme=dark&layout=donut">
-  </a>
-</div>
+### 🚀 Sobre mim
+Atualmente, sou **Estagiário de Engenharia de Software Fullstack na Natura**. Atuo no desenvolvimento de soluções para otimização de plataformas e na resolução de bugs, sempre buscando aplicar as melhores práticas de desenvolvimento e clean code.
 
-## Entre em Contato
+---
 
-<div align="center"> 
-  <a href="mailto:agcesarm@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/augcesart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+### 🎓 Formação e Foco Técnico
+* **Acadêmico:** Cursando Engenharia de Software, com foco em linguagens de baixo nível (**C**) para fortalecer os fundamentos de computação.
+* **Stack Principal:** Prática constante em **JavaScript, React e Node.js** para entregar soluções modernas e performáticas.
+* **Ecossistema:** Experiência com **Redux** para gestão de estado e **GraphQL** para consultas eficientes.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Frontend & Backend** <br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+**Ferramentas & Metodologias** <br>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230a0fff.svg?style=for-the-badge&logo=jira&logoColor=white)
+![GitFlow](https://img.shields.io/badge/Git_Flow-black?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📫 Vamos conversar?
+Estou sempre aberto a trocar ideias sobre tecnologia e colaborações em projetos!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/augcesart/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augustocs.ita@gmail.com)
